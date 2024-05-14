@@ -1,5 +1,5 @@
 # GUI Todo List App
-This is a GUI todo list app made in Python using Tkinter.
+This is a GUI todo list app made in Python using Tkinter. Seamlessly keep track of your tasks with this simple and easy to use program!
 
 ## Run
 
